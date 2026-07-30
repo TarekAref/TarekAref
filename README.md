@@ -31,6 +31,10 @@ I am building hands-on experience in computer hardware, Windows and Linux system
 
 **Alexandria University**
 
+## 📜 Certifications
+
+- **ITIL Foundation (Version 5)** — In Progress
+
 ## 💼 Professional Background
 
 - Telecommunications and customer support
@@ -50,7 +54,7 @@ I am the founder of **BNS Innovation**, a technology venture focused on identify
 - Microsoft Azure and Entra ID
 - Microsoft endpoint management
 - Cisco networking
-- ITIL service-management practices
+- ITIL Foundation (Version 5) exam preparation
 - Cybersecurity operations
 - AI security and governance
 
