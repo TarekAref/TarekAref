@@ -58,6 +58,10 @@ I am the founder of **BNS Innovation**, a technology venture focused on identify
 - Cybersecurity operations
 - AI security and governance
 
+## 🧠 Learning Documentation
+
+- [IBM SkillsBuild: Troubleshooting Code with IBM Granite](learning/ibm-skillsbuild-granite-code-troubleshooting.md) — Completed July 31, 2026
+
 ## ⭐ Professional Strengths
 
 - Customer-focused troubleshooting
